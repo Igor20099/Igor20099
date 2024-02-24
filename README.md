@@ -3,9 +3,9 @@
 <h3 align="left" ><img src="https://media.istockphoto.com/id/476929737/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BA-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B8-%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D1%83-icon.jpg?s=612x612&w=0&k=20&c=jmjOHycRU6Se8rUGq-RdyOY_HzwGWBICZlIfPqw1-nA=" height="16"/> About Me</h3>
 <p>Я Frontend Developer и Game Developer из России</p>
 <ul>
-  <li>Мне нравится верстать статический сайты на HTML и CSS, а также добавлять динамику на страницу с помощью Javascript(TypeScript)
+  <li>Мне нравится верстать статические сайты на HTML и CSS, а также добавлять динамику на страницу с помощью Javascript(TypeScript)
   <li>Нравится создавать динамические веб-сайты и веб-приложения с помощью библиотеки React </li>
-  <li>Также увлекаюсь созданием игр с помощью фреймворка Phaser.js с использованием языка JavaScript(TypeScript) и на игровом движке Defold с использованием языка Lua</li>
+  <li>Также увлекаюсь созданием игр с помощью фреймворка Phaser.js на языке JavaScript(TypeScript) и на игровом движке Defold с использованием языка Lua</li>
   <li>Стремлюсь к улучшению своих навыков и расширению своего опыта</li>
   <li>Хочу найти команду единомышленников и разрабатывать с ними интересные проекты</li>
 </ul>
