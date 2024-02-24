@@ -18,6 +18,6 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="https://t.me/nexj123" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
+<a href="https://t.me/NEXJ123" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
 <a href="mailto:megakill123@yandex.ru?" target="_blank"><img align="center" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" alt="" height="26" width="100" /></a>
 </p>
