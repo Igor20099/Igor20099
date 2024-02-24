@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">Мой стек технологий:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/></a>  
