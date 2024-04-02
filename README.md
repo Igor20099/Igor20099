@@ -28,6 +28,7 @@
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://defold.com/images/logo/defold/logo_with_text/logo-ver-classic-white-160.png" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40"/></a>
 </p>
 <h2></h2>
 <h3 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1250/1250855.png" height="16"/> My contacts:</h3>
